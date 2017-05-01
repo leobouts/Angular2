@@ -1,0 +1,50 @@
+.box1{
+width: 500px;
+height:500px;
+    border: 25px solid red;
+    background:    #fff2cc;
+background:    -webkit-linear-gradient(#fff2cc, #bf9000);
+background:    linear-gradient(#fff2cc, #bf9000);
+   
+}
+
+h1, h3 {
+  color: #3d85c6;
+}
+
+.act1{
+background:    #3d85c6;
+background:    -webkit-linear-gradient(#3d85c6, #073763);
+background:    linear-gradient(#3d85c6, #073763);
+border-radius: 5px;
+color:         #fff;
+display:       inline-block;
+padding:       8px 20px;
+font:          normal 700 24px/1 "Calibri", sans-serif;
+text-align:    center;
+text-shadow:   1px 1px 0 #000;
+}
+
+a{
+
+background:    #eee;
+background:    -webkit-linear-gradient(#eee, #073763);
+background:    linear-gradient(#eee, #073763);
+border-radius: 5px;
+color:         #fff;
+display:       inline-block;
+padding:       8px 20px;
+font:          normal 700 24px/1 "Calibri", sans-serif;
+text-align:    center;
+text-shadow:   1px 1px 0 #000;
+
+
+
+
+
+}
+/*
+Copyright 2016 Google Inc. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at http://angular.io/license
+*/

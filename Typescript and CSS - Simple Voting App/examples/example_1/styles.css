@@ -1,0 +1,26 @@
+h1{
+    background:yellow:
+    border: 10px solid blue;
+    padding: 40px;
+    color:magenta;
+}
+
+table{
+    background:green;
+    border: 10px solid blue;
+    padding:40px;
+    color:rosybrown;
+}
+.class1{
+  border: 10px solid cyan;
+  color:blue;
+}
+
+#div1{
+  font-family:"Arial",Times,serif;
+    font-size:60px;
+  background:darkorange;
+    borfer:10px solid cyan;
+    padding-left:200px;
+    color:rosybrown;
+}
